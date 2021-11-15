@@ -1,0 +1,1 @@
+Refer to 'REACT_REDUX_CORE_CONCEPTS' file to learn more about redux (without react tho).
